@@ -19,12 +19,22 @@ public class task_one {
     //     System.out.println("* * * * *");
     // }
     //reverse right half pyramid
-    static void taskOne() {
-     System.out.println();
-    System.out.println("* * * * *");
-     System.out.println("* * * *");
-     System.out.println("* * *");
-     System.out.println("* *");
-     System.out.println("*");
+    // static void taskOne() {
+    //  System.out.println();
+    // System.out.println("* * * * *");
+    //  System.out.println("* * * *");
+    //  System.out.println("* * *");
+    //  System.out.println("* *");
+    //  System.out.println("*");
+    // }
+
+    // left half pyramid
+    static void taskOne(){
+        System.out.println();
+       System.out.println("        *");
+       System.out.println("      * *");
+       System.out.println("    * * *");
+       System.out.println("  * * * *");
+       System.out.println("* * * * *");
     }
 }
