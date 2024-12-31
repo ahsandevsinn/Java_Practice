@@ -8,8 +8,18 @@ public class task_one {
 
     // create a class to output subscribe
     
-    static void taskOne(){
-        System.out.println("Subscribe");
-    }
+    // static void taskOne(){
+    //     System.out.println("Subscribe");
+    // }
+
+    // right half pyramid
+    // static void taskOne(){
+    //     System.out.println();
+    //     System.out.println("*");
+    //     System.out.println("* *");
+    //     System.out.println("* * *");
+    //     System.out.println("* * * *");
+    //     System.out.println("* * * * *");
+    // }
 
 }
