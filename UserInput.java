@@ -21,4 +21,10 @@ public class UserInput{
     //     System.out.println("Welcome\s"+name+"\sto KG Coding");
 
     // }
+    // create a program to add two numbers 
+    public static void userInput() {
+        int num1 = 5;
+        int num2 = 5;
+        System.out.println("add of two numbers is\s"+ (num1+num2));
+    }
 }
