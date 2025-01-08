@@ -5,6 +5,7 @@ public class Main{
 //   Variables.variablesDataType();
 // challengefour.leftHalfPyramid();
 // UserInput.userInput();
-TypeConvertion.TypeConvert();
+// TypeConvertion.TypeConvert();
+// Practice.displayTypes();
 }
 }
