@@ -7,5 +7,6 @@ public class Main{
 // UserInput.userInput();
 // TypeConvertion.TypeConvert();
 // Practice.displayTypes();
+// Practice.variables();
 }
 }

@@ -31,13 +31,22 @@ public class Practice {
 //     }
    
 // 🖨️ Variables
-// Write a program to declare, assign, and reassign a variable.
 // Explain the concept of variable scope with an example.
 
 // Score: 3/5 repeat again
 // What is a variable, and why do we use it in programming?
 //  Ans : Variable is a container to store value
 
+// Write a program to declare, assign, and reassign a variable.
+// 4.5 out of 5
+//  public static void variables(){
+//     int a;   //(declare)
+//     a = 10;  // (assign)
+//     System.out.println(a);
+//     a = 20;  // (reassign)
+//     System.out.println(a);
+
+//  }
    
 
 
