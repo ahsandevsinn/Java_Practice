@@ -1,6 +1,6 @@
 
 public class Practice {
-    // 🏬 Data Types, Variables & Input
+    // 🏬 Data Types, Variables & Input (repeat again)
     // total score = 5;
     // obtained score = 4;
     // Define what a data type is and list five common data types used in programming.
@@ -12,7 +12,7 @@ public class Practice {
 
     // Write a program to declare variables of different data types and display their types.
     // total score = 5;
-    // obtained score = 4;
+    // obtained score = 4; (repeat again)
 //     public static void displayTypes(){
 //         int num = 1;
 //     long a = 2039;
@@ -30,6 +30,13 @@ public class Practice {
 //    System.out.println(f);
 //     }
    
+// 🖨️ Variables
+// Write a program to declare, assign, and reassign a variable.
+// Explain the concept of variable scope with an example.
+
+// Score: 3/5 repeat again
+// What is a variable, and why do we use it in programming?
+//  Ans : Variable is a container to store value
 
    
 
