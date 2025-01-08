@@ -31,7 +31,6 @@ public class Practice {
 //     }
    
 // 🖨️ Variables
-// Explain the concept of variable scope with an example.
 
 // Score: 3/5 repeat again
 // What is a variable, and why do we use it in programming?
@@ -48,6 +47,12 @@ public class Practice {
 
 //  }
    
+// Explain the concept of variable scope with an example.
+// 3.5/5
+// int a = 10;
+// public static void scope(){
+//     System.out.println(a);
+// }
 
 
 }
