@@ -4,6 +4,7 @@ public class Main{
   //  task_one.taskOne();
 //   Variables.variablesDataType();
 // challengefour.leftHalfPyramid();
-UserInput.userInput();
+// UserInput.userInput();
+TypeConvertion.TypeConvert();
 }
 }
