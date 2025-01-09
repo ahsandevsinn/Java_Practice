@@ -8,5 +8,6 @@ public class Main{
 // TypeConvertion.TypeConvert();
 // Practice.displayTypes();
 // Practice.variables();
+ChallengeSeven.swap();
 }
 }
