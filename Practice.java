@@ -1,3 +1,4 @@
+import java.util.List;
 
 public class Practice {
     // 🏬 Data Types, Variables & Input (repeat again)
@@ -86,5 +87,22 @@ public class Practice {
 //        System.out.println(e);
 //        System.out.println(f);
 //         }
+
+// ⚠️ Naming Conventions
+// Write a program using camelCase, PascalCase, and snake_case naming conventions for variables.
+// Identify the invalid variable names: 1name, _user, firstName, last name.
+// 2/5
+// lname invalid
+// _user invalid
+//  firstName valid
+// last name invalid
+
+ // Write a program using camelCase, PascalCase, and snake_case naming conventions for variables.
+// Identify the invalid variable names: 1name, _user, firstName, last name.
+// lname invalid
+// _user valid
+//  firstName valid
+// last name invalid
+
 
 }
