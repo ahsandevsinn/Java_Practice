@@ -121,4 +121,9 @@ public class Practice {
 // public static void escape(){
 //     System.out.println("Hello\nWorld");
 // }
+
+// Explain the difference between \t and \n with an example.
+// 3/5
+// \t use for tab space 
+// \n use for next line
 }
