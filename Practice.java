@@ -103,4 +103,14 @@ public class Practice {
     // public static void name_Convertion() {
     //     System.out.println("this is a snake_Case function");
     // }
+
+    // 🔄 Escape Sequences
+// What is an escape sequence? Provide five examples.
+    // public static void escape(){
+    //     // System.out.println("Hello\n Ahsan"); \n for new line
+    //     // System.out.println("Hello\t Ahsan"); \t for tab
+    //     // System.out.println("Hello\'' Ahsan"); \'' for string
+    //     // System.out.println("Hello\\ Ahsan\\"); \\ for backlash
+    //     // System.out.println("Hello\r Ahsan"); \r curso beginning for start
+    // }
 }
