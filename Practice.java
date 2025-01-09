@@ -54,5 +54,37 @@ public class Practice {
 //     System.out.println(a);
 // }
 
+// 🚚 Data Types
+
+// Classify the following as integers, floats, strings, or booleans: 42, 3.14, "Hello, World!", False.
+// scores 4/5
+//  42 is an integer
+//  3.14 is an float 
+//  "hello world" is an String
+// false is an boolean
+
+// What is the difference between an integer and a float? Write a program to demonstrate.
+// 3/5
+// integer store wihtout decimal value and integer store only 4 bytes
+// fload store with decimal value and float store only 4 bytes
+
+// Create a list of mixed data types and print each item along with its type.
+// repeat again
+// public static void displayTypes(){
+//             int num = 1;
+//         long a = 2039;
+//         short b = 34;
+//         double c = 4.5555;
+//         float d = 4.5f;
+//         char e = 'd';
+//        String f = "Hello";
+//        System.out.println(num);
+//        System.out.println(a);
+//        System.out.println(b);
+//        System.out.println(c);
+//        System.out.println(d);
+//        System.out.println(e);
+//        System.out.println(f);
+//         }
 
 }
