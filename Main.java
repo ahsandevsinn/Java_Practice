@@ -9,6 +9,6 @@ public class Main{
 // Practice.displayTypes();
 // Practice.variables();
 // ChallengeSeven.swap();
-Practice.escape();
+// Practice.userInput();
 }
 }

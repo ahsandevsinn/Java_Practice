@@ -1,3 +1,4 @@
+import java.util.Scanner;
 
 public class Practice {
     // 🏬 Data Types, Variables & Input (repeat again)
@@ -126,4 +127,18 @@ public class Practice {
 // 3/5
 // \t use for tab space 
 // \n use for next line
+
+// 🚧 User Input
+// // Write a program to take user input for their name and age, then print a personalized greeting.
+// 4.5/5
+// public static void userInput (){
+//     Scanner input = new Scanner(System.in);
+//  System.out.println("Please enter name :");
+//  String name = input.nextLine();
+//  System.out.println("Please enter age :");
+//  int age = input.nextInt();
+//  System.out.println("Hello " +name + "\sWelcome to Java Coding your age is "+ age);
+
+
+// }
 }
