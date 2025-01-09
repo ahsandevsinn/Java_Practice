@@ -113,4 +113,12 @@ public class Practice {
     //     // System.out.println("Hello\\ Ahsan\\"); \\ for backlash
     //     // System.out.println("Hello\r Ahsan"); \r curso beginning for start
     // }
+
+    // Write a program to print the following output:
+// Hello,
+// World!
+// 5/5
+// public static void escape(){
+//     System.out.println("Hello\nWorld");
+// }
 }
