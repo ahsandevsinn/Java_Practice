@@ -10,6 +10,7 @@ public class Main{
 // Practice.variables();
 // ChallengeSeven.swap();
 // Practice.userInput();
-ArthimeticOperator.operators();
+// ArthimeticOperator.operators();
+OrderOfOperations.orderOperations();
 }
 }
