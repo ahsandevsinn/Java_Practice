@@ -8,5 +8,13 @@ public class OperatorsChallenge {
     // System.out.println(a*b);
     // System.out.println(a/b);
     // System.out.println(a%b);
+
+    // // Create a program to calculate product of two floating points numbers 
+    // float a = 10.0f;
+    // float b = 4.0f;
+    // System.out.println(a*b);
+    
+
+
     }
 }
