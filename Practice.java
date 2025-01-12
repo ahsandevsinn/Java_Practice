@@ -151,4 +151,6 @@ public class Practice {
 //     System.out.println("The sum of two numbers is\s"+ (num1+num2));
 // }
 
+
+
 }
