@@ -35,6 +35,13 @@ public class OperatorsChallenge {
 //    double height = input.nextDouble();
 //    System.out.println("The area of triangle is "+ 0.5*(base*height)+"cm2");
 
+// // calculate simple inerest (PxTxR)/100
+// int P = 10;
+// int T = 20;
+// int R = 30;
+
+// System.out.println("Your simple interest is "+ (P*T*R)/100);
+
 
 
     
