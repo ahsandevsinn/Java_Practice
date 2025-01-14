@@ -42,6 +42,13 @@ public class OperatorsChallenge {
 
 // System.out.println("Your simple interest is "+ (P*T*R)/100);
 
+// calculate compound interest P(1+R/100)t
+// int P = 10;
+// int T = 20;
+// int R = 30;
+
+// double comInt = P*Math.pow((1+R/100), T);
+// System.out.println("Your compound interest is " + comInt);
 
 
     
