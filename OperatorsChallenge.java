@@ -1,3 +1,6 @@
+
+import java.util.Scanner;
+
 public class OperatorsChallenge {
     public static void main(String[] args) {
         // Create a program that takes two numbers and shows result of all arithmetic operators (+,-,*,/,%)
@@ -21,6 +24,19 @@ public class OperatorsChallenge {
     // int d = 40;
 
     // System.out.println(a+b+c+d);
+
+    // Calculate area of triangle 1/2*B*H
+
+//     System.out.println("Welcome to triangle");
+//     System.out.println("Please enter base : ");
+//     Scanner input = new Scanner(System.in);
+//    double base = input.nextDouble();
+//    System.out.println("Please enter height : ");
+//    double height = input.nextDouble();
+//    System.out.println("The area of triangle is "+ 0.5*(base*height)+"cm2");
+
+
+
     
 
 
