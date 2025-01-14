@@ -50,6 +50,11 @@ public class OperatorsChallenge {
 // double comInt = P*Math.pow((1+R/100), T);
 // System.out.println("Your compound interest is " + comInt);
 
+// // convert fahrenheit to celsius 
+// int f = 49;
+// System.out.println("Your weather in celsius is "+ (f-32)*5/9);
+
+
 
     
 
