@@ -43,5 +43,16 @@ public class ConditionsChallenge {
         //     System.out.println("Num3 is greater than");
 
         // }
+
+        // check leap year
+        Scanner input = new Scanner(System.in);
+        int num = input.nextInt();
+
+        if (num % 400 == 0 || (num % 4 == 0 && num % 100 != 0)) {
+            System.out.println("Your year is leap year");
+        }else {
+            System.out.println("Your year is not a leap year");
+
+        }
     }
 }
