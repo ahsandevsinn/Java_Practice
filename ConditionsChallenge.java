@@ -45,14 +45,37 @@ public class ConditionsChallenge {
         // }
 
         // check leap year
-        Scanner input = new Scanner(System.in);
-        int num = input.nextInt();
+        // Scanner input = new Scanner(System.in);
+        // int num = input.nextInt();
 
-        if (num % 400 == 0 || (num % 4 == 0 && num % 100 != 0)) {
-            System.out.println("Your year is leap year");
+        // if (num % 400 == 0 || (num % 4 == 0 && num % 100 != 0)) {
+        //     System.out.println("Your year is leap year");
+        // }else {
+        //     System.out.println("Your year is not a leap year");
+
+        // }
+
+        // check student grade
+        Scanner input = new Scanner(System.in);
+        System.out.println("Please enter percentage : ");
+        float percentage = input.nextFloat();
+        if (percentage >= 90) {
+            System.out.println("You have got A Grade");
+        } else if (percentage >= 75){
+            System.out.println("You have got B Grade");
+
+        }else if (percentage >= 50) {
+            System.out.println("You have got C Grade");
+            
+        }else if (percentage >= 30) {
+            System.out.println("You have got D Grade");
+
+            
         }else {
-            System.out.println("Your year is not a leap year");
+            System.out.println("You have got F Grade Failed");
 
         }
+
+
     }
 }
