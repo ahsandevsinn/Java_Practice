@@ -39,6 +39,14 @@ public class BitwiseOperator {
     // System.out.println(result);
 
 
+    // / create a program that shows bitwise left shift of  number 
+    //     Scanner input = new Scanner(System.in);
+    //         System.out.println("Please enter first number :");
+    //        int first = input.nextInt();
+           
+    //     int result = first << 2;
+    // System.out.println(result);
+
         
     }
 }
