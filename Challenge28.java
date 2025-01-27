@@ -31,19 +31,27 @@ class Challenge28 {
     //     }
     //     return sum;
     // }
-    public static long factorial(int  num){
-         if (num < 2) {
-            return 1;
-         }
-         long fact = 1;
-         int i = 2;
-         while (i < num) {
-            fact *= i;
-            i++;
-         }
-         return fact;
+    // public static long factorial(int  num){
+    //      if (num < 2) {
+    //         return 1;
+    //      }
+    //      long fact = 1;
+    //      int i = 2;
+    //      while (i < num) {
+    //         fact *= i;
+    //         i++;
+    //      }
+    //      return fact;
+    // }
+    public static int sumOfDigits(int num) {
+        int sum = 0;
+        while (num > 0) {
+            sum += num % 10;
+            num /= 10;
+
+        }
+        return sum;
     }
-  
 
 
 }
