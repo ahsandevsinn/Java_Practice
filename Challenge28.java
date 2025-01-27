@@ -8,8 +8,9 @@ class Challenge28 {
         int num = input.nextInt();
         // int sum = sumOfOddNumber(num);
         // System.out.println("Your sum is =" + sum);
-        long fact = factorial(num);
-        System.out.println(fact);
+        // long fact = factorial(num);
+        int sum = sumOfDigits(num);
+        System.out.println(sum);
 // 
 
     }
@@ -24,18 +25,12 @@ class Challenge28 {
     // public static int sumOfOddNumber(int num) {
     //     int sum = 0;
     //     int i = 1;
-
     //     while (i <= num) {
     //         sum += i;
     //     i += 2;
-
     //     }
     //     return sum;
-        
-
-
     // }
-
     public static long factorial(int  num){
          if (num < 2) {
             return 1;
@@ -48,5 +43,7 @@ class Challenge28 {
          }
          return fact;
     }
+  
+
 
 }
