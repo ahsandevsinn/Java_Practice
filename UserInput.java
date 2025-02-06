@@ -25,14 +25,14 @@ public class UserInput {
     //     int num2 = 5;
     //     System.out.println("add of two numbers is\s"+ (num1+num2));
     // }
-    public static void userInput() {
-        Scanner input = new Scanner(System.in);
+    // public static void userInput() {
+    //     Scanner input = new Scanner(System.in);
 
-        System.out.println("Please enter number one :");
-        int num1 = input.nextInt();
-        System.out.println("Please enter number two :");
-        int num2 = input.nextInt();
-        System.out.println("The sum of two numbers is :\s"+ (num1+num2));
+    //     System.out.println("Please enter number one :");
+    //     int num1 = input.nextInt();
+    //     System.out.println("Please enter number two :");
+    //     int num2 = input.nextInt();
+    //     System.out.println("The sum of two numbers is :\s"+ (num1+num2));
 
-    }
+    // }
 }
